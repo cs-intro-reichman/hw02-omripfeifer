@@ -10,8 +10,8 @@ public class Reverse {
     System.out.println();
 	// the middle chr 
 	int mid = l / 2 ; 
-	if ( mid  % 2 == 0){
-		mid = mid--;
+	if ( l % 2 == 0){
+		mid = mid - 1;
 	}   
 	// print the mid char
     System.out.println("The middle character is " + text.charAt(mid));
