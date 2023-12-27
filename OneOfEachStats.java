@@ -51,7 +51,7 @@ public class OneOfEachStats {
                 ck = 3;
                 } else {
                     ck = 4 ;
-                    ormore = " or more";
+                    
                 }
             
         }
