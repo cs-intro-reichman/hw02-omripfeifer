@@ -14,7 +14,7 @@ public class Perfect {
         	System.out.println( a + " is a perfect number since " + a + " = " + divisor);
         }
         else{ 
-        	System.out.println(a + " is no a perfect number");
+        	System.out.println(a + " is not a perfect number");
         }
 		
 	}
